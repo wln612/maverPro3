@@ -12,7 +12,7 @@ public class NewTest {
 		System.out.println("11");
 		System.out.println("22");
 		System.out.println("33");
-		System.out.println("44");
+		System.out.println("9999");
 
 		assertTrue(true);
 	}
